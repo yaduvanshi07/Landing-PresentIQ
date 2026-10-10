@@ -58,12 +58,27 @@ http://127.0.0.1:5000/
 
 ---
 
+## 🔗 Key Links
+
+- **Live Streamlit App**: [PresentIQ Streamlit](https://presentiq2-rxuozdens46mkrxuwtfpnb.streamlit.app/)
+- **Project GitHub Repository**: [PresentIQ2 Repo](https://github.com/yaduvanshi07/PresentIQ2)
+- **Developer Portfolio**: [Abhinav Kumar Yadav Portfolio](https://abhi-portfolio2003.vercel.app/)
+- **Developer GitHub**: [@yaduvanshi07](https://github.com/yaduvanshi07)
+- **Developer LinkedIn**: [Abhinav Kumar Yadav on LinkedIn](https://www.linkedin.com/in/abhinav-kumar-yadav-706a14257/)
+
+---
+
 ## ☁️ Deployment
 
 ### Deploying to Vercel
 The repository includes a configured [vercel.json](file:///c:/Projects/Upgradation/Landing%20page/vercel.json) for fast deployment on Vercel:
 1. Install Vercel CLI: `npm i -g vercel`
 2. Run `vercel` in the project root directory.
+
+---
+
+## 👨‍💻 Author
+Developed & Crafted with ❤️ by **Abhinav Kumar Yadav** ([Portfolio](https://abhi-portfolio2003.vercel.app/) | [GitHub](https://github.com/yaduvanshi07) | [LinkedIn](https://www.linkedin.com/in/abhinav-kumar-yadav-706a14257/))
 
 ---
 
