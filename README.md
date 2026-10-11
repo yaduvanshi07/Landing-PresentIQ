@@ -2,6 +2,10 @@
 
 A modern, responsive landing page for **Present IQ** (an AI-powered classroom attendance system leveraging facial recognition and voice biometrics), built with Python Flask and vanilla CSS/JS.
 
+> [!IMPORTANT]
+> 🌐 **Live Website Deployed At**:  
+> **[https://landing-present-iq.vercel.app/](https://landing-present-iq.vercel.app/)**
+
 ---
 
 ## 🎨 Theme & Design
@@ -60,6 +64,7 @@ http://127.0.0.1:5000/
 
 ## 🔗 Key Links
 
+- 🌐 **Live Deployed Landing Page**: **[https://landing-present-iq.vercel.app/](https://landing-present-iq.vercel.app/)**
 - **Live Streamlit App**: [PresentIQ Streamlit](https://presentiq2-rxuozdens46mkrxuwtfpnb.streamlit.app/)
 - **Project GitHub Repository**: [PresentIQ2 Repo](https://github.com/yaduvanshi07/PresentIQ2)
 - **Developer Portfolio**: [Abhinav Kumar Yadav Portfolio](https://abhi-portfolio2003.vercel.app/)
@@ -70,7 +75,10 @@ http://127.0.0.1:5000/
 
 ## ☁️ Deployment
 
-### Deploying to Vercel
+The landing page is deployed on **Vercel**:
+- 🔗 **Production URL**: **[https://landing-present-iq.vercel.app/](https://landing-present-iq.vercel.app/)**
+
+### Deploying Your Own Copy to Vercel
 The repository includes a configured [vercel.json](file:///c:/Projects/Upgradation/Landing%20page/vercel.json) for fast deployment on Vercel:
 1. Install Vercel CLI: `npm i -g vercel`
 2. Run `vercel` in the project root directory.
